@@ -1,1 +1,1 @@
-# major_Exploration_NWMSU
+# nwmsu-chatbot
