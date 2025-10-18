@@ -29,7 +29,7 @@ User Question → Context Retrieval → LLM Generation → Answer
 
 1. **Clone or download the project**
    ```bash
-   cd /Users/Goswami,Bhavesh/Downloads/projects/nwmsu-chatbot
+   cd /Users/Downloads/projects/nwmsu-chatbot
    ```
 
 2. **Create and activate virtual environment**
@@ -45,9 +45,9 @@ User Question → Context Retrieval → LLM Generation → Answer
 
 4. **Set up environment variables (optional)**
    ```bash
-   export NEO4J_URI="neo4j+s://813403d3.databases.neo4j.io"
+   export NEO4J_URI=""
    export NEO4J_USERNAME="neo4j"
-   export NEO4J_PASSWORD="4EfVPpL8RGgaSXTN1rudzLxMygGnihSAMtblyskNWz8"
+   export NEO4J_PASSWORD=""
    ```
 
 ## Running the Application
