@@ -86,9 +86,9 @@ class Neo4jRAGChatbot:
         print("🗄️ Setting up Neo4j connection...")
         
         # Neo4j connection details
-        NEO4J_URI = "neo4j+s://813403d3.databases.neo4j.io"
+        NEO4J_URI = ""
         NEO4J_USERNAME = "neo4j"
-        NEO4J_PASSWORD = "4EfVPpL8RGgaSXTN1rudzLxMygGnihSAMtblyskNWz8"
+        NEO4J_PASSWORD = ""
         
         try:
             # Test connection
